@@ -12,5 +12,8 @@ main{
     background: green;
     width: 400px;
     height: 500px;
-    align-items: center;
+    align-items: center;/*Faz o alinhamnetos dos intens no centro*/
+    justify-content: space-evenly; /*Espaçamento dos intens da box*/
+    border-radius: 20px; /*Efeito aredondado nas bordas da box*/
+    box-shadow: 0 0 20px red; /*Efeito vermelho ao redor da box*/
 }
