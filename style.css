@@ -1,0 +1,16 @@
+main{
+    display: flex;
+    width: 100vw;
+    height: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    background: green;
+    width: 400px;
+    height: 500px;
+    align-items: center;
+}
