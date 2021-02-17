@@ -36,3 +36,12 @@ main{
     justify-content: space-between;
     align-items: center;
 }
+
+.input input{
+    width: 170px;
+    height: 30px;
+    border-radius: 5px;
+    outline: 0;
+    font: bold 1.2rem serif;
+    text-align: center; 
+}
