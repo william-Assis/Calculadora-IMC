@@ -11,7 +11,7 @@ main{
     flex-direction: column;
     background: green;
     width: 400px;
-    height: 500px;
+    height: 600px;
     align-items: center;/*Faz o alinhamnetos dos intens no centro*/
     justify-content: space-evenly; /*Espaçamento dos intens da box*/
     border-radius: 20px; /*Efeito aredondado nas bordas da box*/
@@ -29,3 +29,10 @@ main{
     margin-bottom: 20px;
 }
 
+.input{
+    display: flex;
+    width: 270px;
+    height: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
